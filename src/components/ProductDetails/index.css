@@ -1,0 +1,14 @@
+.product-details {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  .product-details h2 {
+    color: #333;
+  }
+  
+  .product-details p {
+    color: #666;
+  }
+  
